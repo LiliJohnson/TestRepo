@@ -3,7 +3,7 @@ export var stateObj = {
     lastDate: null
 };
 export var timerButtonDiv = `<p id="heading">1</p><br/><button id="timerButton">Start Timer</button>`;
-
+//Updating for github test
 
 export var timerButton = document.getElementById("timerButton");
 
