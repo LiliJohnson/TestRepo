@@ -68,7 +68,7 @@ let headData = `<meta name="viewport" content="width=device-width, initial-scale
         }
     </style>`;
 document.getElementsByTagName("head")[0].innerHTML += headData;
-
+// GTOKEN_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
 
 var modal;
 var btn = document.getElementById("myBtn");
